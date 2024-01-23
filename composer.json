@@ -1,0 +1,22 @@
+{
+    "name": "hellowp/elementor-extra-conditions",
+    "description": "Custom Elementor conditions for WooCommerce and more.",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "HelloWP\\ElementorExtraConditions\\WooConditions\\": "conditions/woo-conditions/",
+            "HelloWP\\ElementorExtraConditions\\Devices\\": "conditions/devices/",
+            "HelloWP\\ElementorExtraConditions\\WpConditions\\": "conditions/wp-conditions/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Soczó Kristóf",
+            "email": "lonsdale201@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
