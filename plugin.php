@@ -206,4 +206,3 @@ final class Plugin {
 
 \Plugin::instance();
 
-// composer dump-autoload
