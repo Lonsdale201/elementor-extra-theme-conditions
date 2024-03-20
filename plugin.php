@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: HelloWP! | Elementor Extra Theme Conditions
+ * Plugin Name: Elementor Extra Theme Conditions
  * Description: Add extra theme conditions like user roles, woo specific conditions, and logged in / out 
  * Version: 1.0
  * Author: Soczó Kristóf
- * Author URI: https://hellowp.io/
- * Plugin URI:  https://github.com/Lonsdale201/elementor-extra-theme-conditions
+ * Author URI: https://github.com/Lonsdale201?tab=repositories
+ * Plugin URI: https://github.com/Lonsdale201/elementor-extra-theme-conditions
  * Text Domain: elementor-extra-conditions
  * Elementor tested up to: 3.18.3
  * Elementor Pro tested up to: 3.18.3
