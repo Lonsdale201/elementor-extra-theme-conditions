@@ -3,6 +3,9 @@ A small but useful plugin that adds some additional conditions to the elementor 
 
 ## Description
 
+> [!CAUTION]
+> This extension is no longer supported. All functions have been moved to the new Dynamic Elementor extension.
+
 The plugin adds some extra theme conditions to Elementor Pro
 
 * User Roles
